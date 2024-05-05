@@ -1,2 +1,1 @@
-# Cryptanalysis-hobby
-I'm just trying out cryptanalysis, for fun. Nothing too serious or committal.
+Each directory plays around with new cyphers. They are numbered in the order in which I've started studying them.
